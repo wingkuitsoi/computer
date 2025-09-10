@@ -1,0 +1,4 @@
+# Clink #
+- enhances cmd.exe with persistent history
+winget install clink
+Ref. https://chrisant996.github.io/clink/
