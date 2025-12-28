@@ -3,7 +3,7 @@
 
 @echo off
 
-:: Installing Dependencies
+:: Install dependencies
 conda install cmake ninja -c conda-forge
 pip install scikit-build-core
 
