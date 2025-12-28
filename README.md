@@ -1,2 +1,2 @@
 # Purpose
-To record my computer notes.
+To place my computer notes and custom tools/scripts.
