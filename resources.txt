@@ -1,5 +1,8 @@
-Windows Redis
-Ref. https://github.com/microsoftarchive/redis/releases
+Windows OpenSSL:
+https://slproweb.com/products/Win32OpenSSL.html
 
-Linux VM Images 
-Ref. https://www.linuxvmimages.com/
+Windows Redis:
+https://github.com/microsoftarchive/redis/releases
+
+Linux VM Images:
+https://www.linuxvmimages.com/
